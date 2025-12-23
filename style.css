@@ -1,0 +1,64 @@
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #458ff6;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.section-desc {
+    color: #777;
+    max-width: 600px;
+    margin: auto;
+}
+
+.btn-primary {
+    background: #458ff6;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.btn-outline {
+    background: none;
+    border: 2px solid #458ff6;
+    color: #458ff6;
+    padding: 12px 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.service-card {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    text-align: left;
+}
+
+.user {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.user img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.quote {
+    font-size: 18px;
+    max-width: 400px;
+}
